@@ -6,6 +6,6 @@
 
 [**guns.lol**](https://guns.lol/asgore./)
 ```
-current project: Asgore Bot
+current project: Asgore Bot, Personal Website
 discord: .asgore
 ```
